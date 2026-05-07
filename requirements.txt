@@ -1,0 +1,17 @@
+# Versiones probadas con eleccol2026 v2 (PyMC NUTS, modelo unificado)
+# Tested on Python 3.12, Linux x86_64, abril 2026
+
+pymc>=5.28
+arviz>=0.17
+pytensor>=2.18
+numpy>=1.24,<2.3
+pandas>=2.0
+scipy>=1.11
+matplotlib>=3.7
+
+# Notebook
+jupyter>=1.0
+nbformat>=5.9
+
+# Optional, used in some auxiliary diagnostics:
+# emcee>=3.1

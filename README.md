@@ -64,8 +64,7 @@ eleccol2026/
 ├── notebook/
 │   └── modelos_eleccol2026.ipynb   ← ejecutable end-to-end
 ├── documento/
-│   ├── articulo_eleccol2026.tex    ← paper completo
-│   └── articulo_eleccol2026.pdf    ← versión compilada (9 páginas)
+│   └── articulo_eleccol2026.pdf    ← versión compilada
 └── figuras/                         ← fig1–fig13 generadas por los scripts
 ```
 

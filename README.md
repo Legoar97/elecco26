@@ -17,7 +17,7 @@ A 31 días de la primera vuelta presidencial estimo la probabilidad de que Iván
 
 **Lectura cualitativa:** Cepeda es favorito individual y casi seguro pasa a 2ª vuelta (P = 98 %), pero pierde en media en ambas segundas vueltas posibles (47.5 % vs 52.5 % contra Espriella; 46.3 % vs 53.7 % contra Paloma). El bloque opositor en conjunto (Espriella + Paloma = 59 %) es favorito para la presidencia. La elección se decide en quién, dentro del bloque opositor, llega a 2ª vuelta.
 
-El documento completo con metodología, resultados, validación y limitaciones está en [`https://github.com/Legoar97/elecco26/blob/main/documento/Documento%20Elecciones%20Co.pdf`](documento/articulo_eleccol2026.pdf).
+El documento completo con metodología, resultados, validación y limitaciones está en [`documento/Documento Elecciones Co.pdf`](documento/Documento%20Elecciones%20Co.pdf).
 
 ---
 
